@@ -1,1 +1,1 @@
-This is a reposotory for share example of maps created 
+This is a repository for share example of maps created 
